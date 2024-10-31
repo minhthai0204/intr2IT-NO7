@@ -32,7 +32,26 @@ Dưới đây là tóm tắt ngắn gọn cho từng mục:
 
 Nếu bạn cần thêm thông tin về bất kỳ mục nào, hãy cho tôi biết!
 ## Chương 2
-- Sử dụng GG Search và Chat GPT
+Dưới đây là tóm tắt về việc sử dụng Google Search và ChatGPT:
+
+### Google Search
+- **Mục đích**: Công cụ tìm kiếm trực tuyến giúp người dùng tìm kiếm thông tin từ internet.
+- **Cách sử dụng**: Nhập từ khóa hoặc câu hỏi vào thanh tìm kiếm, nhấn "Enter" và xem danh sách kết quả.
+- **Tính năng**: Có thể lọc kết quả theo loại (hình ảnh, video, tin tức), sử dụng toán tử tìm kiếm nâng cao (AND, OR, NOT) và tìm kiếm theo thời gian.
+- **Ưu điểm**: Truy cập nhanh chóng đến một lượng lớn thông tin từ nhiều nguồn khác nhau.
+
+### ChatGPT
+- **Mục đích**: Mô hình ngôn ngữ AI giúp người dùng giao tiếp và nhận câu trả lời tự động.
+- **Cách sử dụng**: Nhập câu hỏi hoặc yêu cầu vào ô chat, và ChatGPT sẽ phản hồi bằng văn bản.
+- **Tính năng**: Có khả năng tạo nội dung, giải thích khái niệm, và hỗ trợ giải quyết vấn đề theo ngữ cảnh.
+- **Ưu điểm**: Cung cấp phản hồi nhanh, cá nhân hóa và có khả năng tương tác tự nhiên.
+
+### So sánh
+- **Google Search**: Tốt cho việc tìm kiếm thông tin cụ thể từ nhiều nguồn khác nhau.
+- **ChatGPT**: Tốt cho việc tương tác và nhận thông tin được tổng hợp, giải thích dễ hiểu.
+
+Nếu bạn cần thêm thông tin chi tiết, hãy cho tôi biết!
+
 ## Chương 3
 - Hệ thống số
 ## Chương 4
