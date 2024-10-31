@@ -17,4 +17,3 @@ python main.py
 - Linux
 ## Chương 5
 - Git
-minhthaiccc
