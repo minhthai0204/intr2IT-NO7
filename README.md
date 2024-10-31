@@ -1,8 +1,9 @@
 # intr2IT-NO7
 this is INTR2IT-NO7 ATV phenikaa
-
+```
 python main.py
- 
+ ```
+
 # Nội dung học phần 
 ## Chương 1 
 - Các thành tố về máy tính
